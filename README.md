@@ -74,11 +74,3 @@ Feel free to open issues or pull requests for improvements.
 ## License
 
 MIT
-
-```
-
-```
-
-```
-
-```
