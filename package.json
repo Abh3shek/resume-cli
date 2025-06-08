@@ -1,0 +1,37 @@
+{
+  "name": "abhishekganapure",
+  "version": "1.0.0",
+  "description": "cactro-project",
+  "keywords": [
+    "resume",
+    "ccli"
+  ],
+  "homepage": "https://github.com/Abh3shek/resume-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Abh3shek/resume-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abh3shek/resume-cli.git"
+  },
+  "license": "MIT",
+  "author": "abh3shek",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "bin": {
+    "@abhishek-ganapure": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "resume.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
