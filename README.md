@@ -3,7 +3,7 @@
 ````markdown
 # @abhishek-ganapure
 
-> Your resume as a CLI — viewable in the terminal via `npx.`
+> Resume as a CLI — viewable in the terminal via `npx.`
 
 ## Description
 
@@ -47,11 +47,10 @@ You’ll see:
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
-
-````
 
 3. Link for local testing:
 
@@ -61,14 +60,12 @@ You’ll see:
 
    ```
 
-
 4. Bump version and publish:
+
    ```bash
    npm version patch
    npm publish --access public
    ```
-
-```
 
 ## Contributing
 
@@ -79,5 +76,9 @@ Feel free to open issues or pull requests for improvements.
 MIT
 
 ```
+
 ```
-````
+
+```
+
+```
