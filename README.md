@@ -46,10 +46,11 @@ You’ll see:
 
    ```
 
-````
 2. Install dependencies:
    ```bash
-npm install
+   npm install
+   ```
+
 ````
 
 3. Link for local testing:
@@ -60,12 +61,14 @@ npm install
 
    ```
 
-````
+
 4. Bump version and publish:
    ```bash
-npm version patch
-npm publish --access public
-````
+   npm version patch
+   npm publish --access public
+   ```
+
+```
 
 ## Contributing
 
@@ -75,7 +78,7 @@ Feel free to open issues or pull requests for improvements.
 
 MIT
 
-````
+```
 
 ---
 
@@ -84,9 +87,11 @@ MIT
 **Duration:** ~3–4 minutes
 
 1. **Intro (10–15s)**
+
    - "Hi, I’m Abhishek Ankush Ganapure, a Full-Stack Developer with a passion for Data Science. Today I’ll show you how I’ve published my resume as an npm package."
 
 2. **Show Project Structure (20–30s)**
+
    - Switch to VS Code (or your editor).
    - Point out `index.js`, `resume.js`, and `package.json`.
    - Briefly explain: "`resume.js` holds my resume text, `index.js` is the CLI entry, and `package.json` defines the package and dependencies."
@@ -95,8 +100,9 @@ MIT
    - Open terminal.
    - Run:
      ```bash
-npx @abhishek-ganapure
-````
+     npx @abhishek-ganapure
+
+```
 
 - Talk through each section as it appears (Education, Skills, Projects, Experience).
 
@@ -116,3 +122,5 @@ npx @abhishek-ganapure
 ---
 
 _End of document_
+```
+````
