@@ -41,11 +41,10 @@ You’ll see:
 1. Clone the repo:
 
    ```bash
+   git clone [https://github.com/abhiganapure/resume-cli.git](https://github.com/abhiganapure/resume-cli.git)
+   cd resume-cli
 
    ```
-
-git clone [https://github.com/abhiganapure/resume-cli.git](https://github.com/abhiganapure/resume-cli.git)
-cd resume-cli
 
 ````
 2. Install dependencies:
@@ -56,11 +55,10 @@ npm install
 3. Link for local testing:
 
    ```bash
+   npm link
+   npx @abhishek-ganapure
 
    ```
-
-npm link
-npx @abhishek-ganapure
 
 ````
 4. Bump version and publish:
